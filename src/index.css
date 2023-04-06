@@ -1,0 +1,45 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+.first-row {
+  margin: 4%;
+  display: grid;
+  grid-template-columns: repeat(3, 33%);
+  justify-content:center;
+  gap: 1rem;
+  min-height: 46vh;
+}
+
+.todo-container {
+  background-color:lightcoral;
+  padding: 1rem;
+}
+
+.shop-container {
+  background-color: lightpink;
+  padding: 1rem;
+
+}
+
+.day-container {
+  background-color: antiquewhite;
+  margin-inline: 2.4rem;
+  min-height: 30vh;
+  display: flex;
+  justify-content: space-around;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+

@@ -1,0 +1,90 @@
+[
+    {"week": 12,
+    "year": 2023,
+    "todos": [
+        {
+            "item": "do dishes",
+            "isDone": false
+        },
+        {
+            "item": "laundry",
+            "isDone": true
+        },
+        {
+            "item": "do origami",
+            "isDone": false
+        }
+    ],
+    "shopList": [
+    {
+        "item": "onions",
+        "isDone": false
+    },
+    {
+        "item": "ham",
+        "isDone": true
+    },
+    {
+        "item": "toilet paper",
+        "isDone": false
+    }],
+    "weekLogs" :[
+        {
+            "day": "monday",
+            "task": "doctor appt" 
+        },
+        {
+            "day": "friday",
+            "task": "light bill due date" 
+        },
+        {
+            "day": "monday",
+            "task": "interview call" 
+        }
+    ]
+},
+{"week": 14,
+"year": 2023,
+"todos": [
+    {
+        "item": "do dishes",
+        "isDone": false
+    },
+    {
+        "item": "laundry",
+        "isDone": true
+    },
+    {
+        "item": "do origami",
+        "isDone": false
+    }
+],
+"shopList": [
+    {
+        "item": "onions",
+        "isDone": false
+    },
+    {
+        "item": "ham",
+        "isDone": true
+    },
+    {
+        "item": "toilet paper",
+        "isDone": false
+    }],
+"weekLogs" :[
+    {
+        "day": "monday",
+        "task": "doctor appt" 
+    },
+    {
+        "day": "friday",
+        "task": "light bill due date" 
+    },
+    {
+        "day": "monday",
+        "task": "interview call" 
+    }
+]
+}
+]
